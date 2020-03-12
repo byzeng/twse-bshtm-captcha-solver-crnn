@@ -12,4 +12,4 @@
 ![image](https://github.com/byzeng/twse-bshtm-captcha-solver-crnn/blob/master/test/8.jpg)
 
 
-如果有合作意願請聯繫我 loo85213@gmail.com
+另有買賣日報表自動爬蟲，如果有合作意願請聯繫我 loo85213@gmail.com
