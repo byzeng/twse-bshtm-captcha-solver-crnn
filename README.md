@@ -7,5 +7,9 @@
 ![image](https://github.com/byzeng/twse-bshtm-captcha-solver-crnn/blob/master/test/3.jpg)
 ![image](https://github.com/byzeng/twse-bshtm-captcha-solver-crnn/blob/master/test/4.jpg)
 ![image](https://github.com/byzeng/twse-bshtm-captcha-solver-crnn/blob/master/test/5.jpg)
+![image](https://github.com/byzeng/twse-bshtm-captcha-solver-crnn/blob/master/test/6.jpg)
+![image](https://github.com/byzeng/twse-bshtm-captcha-solver-crnn/blob/master/test/7.jpg)
+![image](https://github.com/byzeng/twse-bshtm-captcha-solver-crnn/blob/master/test/8.jpg)
+
 
 如果有合作意願請聯繫我 loo85213@gmail.com
